@@ -5,7 +5,7 @@
 * [Unit 1 \[example\]](unit-1/unit-1.md)
   * [Unit 1 Overview](unit-1/unit-1.md)
   * [Lesson 1 \[example\]](unit-1/lesson-1/lesson-1.md)
-    * [L1: Overview](unit-1/lesson-1/l1-overview.md)
+    * [L1: Introduction](unit-1/lesson-1/l1-overview.md)
     * [L1: Exercise 1](unit-1/lesson-1/l1-exercise-1.md)
     * [L1: Exercise 2](unit-1/lesson-1/l1-exercise-2.md)
     * [L1: Assignment](unit-1/lesson-1/l1-assignment.md)

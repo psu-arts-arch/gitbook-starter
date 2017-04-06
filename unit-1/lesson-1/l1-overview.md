@@ -1,8 +1,8 @@
-L1: Overview
+L1: Introduction
 
 **\[Lesson 1 Title Here\]**
 
-#### Lesson Overview
+#### Lesson Introduction
 
 **What you will learn, technically:**
 
