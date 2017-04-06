@@ -2,7 +2,7 @@
 
 * Course Overview and Orientation
   * [Introduction](README.md)
-  * Welcome Letter
+  * [Welcome Letter](welcome-letter.md)
   * [Syllabus](syllabus.md)
   * [Instructor Information](instructor-information.md)
 * [Lesson Overview](lesson-overview.md)
