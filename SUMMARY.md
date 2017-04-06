@@ -15,7 +15,7 @@
     * L2: Exercise 1
     * L2: Exercise 2
     * L2: Assignment
-    * L2: Quiz
+    * [L2: Quiz](l2-quiz.md)
   * Unit 1 Quiz
   * Unit 1 Project
 * [Lesson -tester](lesson-1.md)
