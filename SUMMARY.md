@@ -9,8 +9,6 @@
     * [Project introduction](project-introduction.md)
     * [Project: Part 1](project-part-1.md)
     * [Project: Part 2](project-part-2.md)
-  * Activities
+  * [Activities](unit-1/lesson-1/activities.md)
     * [Activity 1](activity-1.md)
-
-
 
