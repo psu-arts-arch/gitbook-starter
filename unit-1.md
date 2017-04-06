@@ -19,11 +19,25 @@ Nam vitae tortor ac urna feugiat sagittis. Sed magna massa, finibus vel ante at,
 **Unit 1 Format Outlined View** _\[example\]_
 
 * Lesson 1
-
   * L1.E1: Lesson 1 Exercise 1
   * L1.E2: Lesson 1 Exercise 2
   * L1.E3: Lesson 1 Exercise 3
-  * L1.A Lesson 1 Assignment
+  * L1.A: Lesson 1 Assignment
+* Lesson 2
+  * L2.E1: Lesson 2 Exercise 1
+  * L2.E2: Lesson 2 Exercise 2
+  * L2.E3: Lesson 2 Exercise 3
+  * L2.A: Lesson 2 Assignment
+
+
+
+* Lesson 1
+
+  * L1.E1: Lesson 1 Exercise 1
+
+    * L1.E2: Lesson 1 Exercise 2
+    * L1.E3: Lesson 1 Exercise 3
+    * L1.A Lesson 1 Assignment
 
 * Lesson 2
 
