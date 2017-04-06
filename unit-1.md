@@ -10,7 +10,13 @@ Morbi sed justo lorem. Curabitur turpis elit, interdum ut sollicitudin non, fauc
 
 **Unit Objectives**
 
-Morbi convallis, arcu at tempus tincidunt, diam tellus mattis neque, eu tincidunt urna justo vitae nulla. Donec porttitor, mauris ut porta ornare, purus nisl suscipit odio, nec tempus mauris ligula id nisi. Donec ut iaculis nibh, sit amet aliquam orci. Pellentesque dapibus massa ut luctus rutrum. Quisque et accumsan diam. Donec dignissim accumsan nulla vel sagittis. Nam a lectus diam.
+Morbi convallis, arcu at tempus tincidunt, diam tellus mattis neque, eu tincidunt urna justo vitae nulla. Donec porttitor, mauris ut porta ornare, purus nisl suscipit odio, nec tempus mauris ligula id nisi. Donec ut iaculis nibh, sit amet aliquam orci. Pellentesque dapibus massa ut luctus rutrum. Quisque et accumsan diam.
+
+Donec dignissim accumsan nulla vel sagittis. Nam a lectus diam:
+
+* Morbi convallis
+* purus nisl suscipit odio
+* Donec porttitor, mauris ut porta ornare
 
 **Unit Format**
 
@@ -33,5 +39,5 @@ Nam vitae tortor ac urna feugiat sagittis. Sed magna massa, finibus vel ante at,
 * Unit 1 Quiz
 * Unit 1 Project
 
-**Unit 1 Requirements**
+**Unit 1 Requirements**_ \[Software/Materials/Etc\]_
 
