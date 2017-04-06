@@ -1,8 +1,8 @@
 # Summary
 
-* [Course Overview and Orientation](course-overview-and-orientation.md)
+* [Course Overview](course-overview-and-orientation.md)
   * [Introduction](README.md)
-  * [Welcome Letter](welcome-letter.md)
+  * [Welcome-Orientation Letter](welcome-letter.md)
   * [Syllabus](syllabus.md)
   * [Instructor Information](instructor-information.md)
 * [Unit 1 \[example\]](unit-1/unit-1.md)
