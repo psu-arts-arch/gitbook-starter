@@ -46,7 +46,7 @@ Nam vitae tortor ac urna feugiat sagittis. Sed magna massa, finibus vel ante at,
 
 * Unit 1 Project
 
-#### Unit 1 Requirements_ \[Software, Materials, Etc.\]_
+#### Unit 1 Requirements_ \[software, materials, etc.\]_
 
 Nullam egestas suscipit faucibus. Sed ligula libero, sollicitudin in massa vel, malesuada cursus ex:
 
