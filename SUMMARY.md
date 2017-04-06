@@ -11,8 +11,7 @@
     * [L1: Assignment](unit-1/lesson-1/l1-assignment.md)
     * [L1: Quiz](unit-1/lesson-1/l1-quiz.md)
   * [Lesson 2 \[example\]](test.md)
-    * [L2: Overview](#)
-    * [L2: Over](l2-over.md)
+    * [L2: Overview](unit-1/lesson-2/l2-overview.md)
     * [L2: Exercise 1](l2-exercise-1.md)
     * L2: Exercise 2
     * [L2: Assignment](unit-1/lesson-2/)
