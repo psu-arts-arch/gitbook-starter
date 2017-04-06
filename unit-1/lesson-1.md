@@ -12,7 +12,7 @@ Uisque erat augue, hendrerit at bibendum vitae, pellentesque quis nulla. Suspend
 
 Nam vitae tortor ac urna feugiat sagittis. Sed magna massa, finibus vel ante at, pharetra pulvinar mi. Fusce quam est, sagittis et rhoncus varius, semper condimentum nibh. Pellentesque imperdiet ultricies consequat. Aliquam nec ornare turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris vitae felis a ligula pellentesque lacinia. Morbi feugiat eros eu justo mattis sagittis. Pellentesque eget lacus a magna fringilla pharetra in ut sapien. Ut pulvinar dui consequat, suscipit justo sed, varius leo. Nullam egestas suscipit faucibus. Sed ligula libero, sollicitudin in massa vel, malesuada cursus ex. Pellentesque feugiat ut sapien sed ultrices.
 
-#### Required Lesson Tutorials _\[or Materials, Readings, Etc.\]_
+#### Required Lesson Tutorials _\[or Readings, etc.\]_
 
 Nullam egestas suscipit faucibus. Sed ligula libero, sollicitudin in massa vel, malesuada cursus ex:
 
