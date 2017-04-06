@@ -4,7 +4,7 @@
   * [Introduction](README.md)
   * Welcome Letter
   * Syllabus
-  * Instructor Information
+  * [Instructor Information](instructor-information.md)
 * [Lesson Overview](lesson-overview.md)
 * [Unit 1 \[example\]](unit-1/unit-1.md)
   * [Unit 1 Overview](unit-1/unit-1.md)
@@ -31,6 +31,4 @@
     * [Project: Part 2](project-part-2.md)
   * [Activities](unit-1/lesson-1/activities.md)
     * [Activity 1](activity-1.md)
-
-
 
