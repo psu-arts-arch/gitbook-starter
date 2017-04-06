@@ -14,8 +14,9 @@
     * [L2: Introduction](unit-1/lesson-2/l2-overview.md)
     * [L2: Exercise 1](l2-exercise-1.md)
     * [L2: Exercise 2](unit-1/lesson-2/l2-exercise-2.md)
-  * [L2: Assignment](l2-assignment.md)
-  * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
+    * [L2: Assignment](l2-assignment.md)
+    * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
+
   * [Unit 1 Quiz](unit-1/unit-1-quiz.md)
   * [Unit 1 Project](unit-1/unit-1-project.md)
 * [Lesson -tester](lesson-1.md)
@@ -27,4 +28,6 @@
     * [Project: Part 2](project-part-2.md)
   * [Activities](unit-1/lesson-1/activities.md)
     * [Activity 1](activity-1.md)
+
+
 
