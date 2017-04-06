@@ -2,5 +2,5 @@ Lesson 1
 
 \[Lesson 1 Title Here\]
 
-Please proceed to: Lesson 1 Overview
+To begin this lesson, please proceed to the: Lesson Overview
 
