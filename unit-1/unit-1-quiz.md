@@ -1,2 +1,2 @@
-Unit 1: Quiz
+Unit 1 Quiz
 
