@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
   * Lesson Overview
-* Unit 1
-  * [Unit 1 Overview](unit-1.md)
+* [Unit 1 \[example\]](unit-1/unit-1.md)
+  * [Unit 1 Overview](unit-1/unit-1.md)
   * [Lesson 1 \[example\]](test.md)
-    * [L1: Overview](test/overview.md)
+    * [L1: Overview](unit-1/lesson-1/l1-overview.md)
     * [L1: Exercise 1](test/exercise-1.md)
     * [L1: Exercise 2](test/l1-exercise-2.md)
     * [L1: Assignment](test/l1-assignment.md)
@@ -16,10 +16,9 @@
     * L2: Exercise 2
     * L2: Assignment
     * L2: Quiz
-    * Unit 1 Project
   * Unit 1 Quiz
   * Unit 1 Project
-* [Lesson -test](unit-1/lesson-1.md)
+* [Lesson -tester](unit-1/lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
     * [Example topic](unit-1/lesson-1/topics/example-topic.md)
   * [Project](unit-1/lesson-1/project.md)
