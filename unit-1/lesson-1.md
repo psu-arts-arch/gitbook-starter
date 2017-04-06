@@ -1,6 +1,6 @@
 Lesson 1
 
-Lesson 1: \[Title Here\]
+#### \[Lesson 1: Title Here\]
 
 #### Lesson Overview
 
