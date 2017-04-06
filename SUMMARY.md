@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Unit 1
+* [Unit 1](unit-1.md)
   * Lesson
     * Topics
       * Example topic
