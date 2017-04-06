@@ -13,6 +13,12 @@
     * L1: Quiz
   * [Lesson 2 \[example\]](test.md)
     * [L2: Overview](#)
+    * L2: Exercise 1
+    * L2: Exercise 2
+    * L2: Assignment
+    * L2: Quiz
+  * Unit 1 Project
+  * Unit 1 Quiz
 * [Lesson -test](unit-1/lesson-1.md)
 
   * [Topics](unit-1/lesson-1/topics.md)
