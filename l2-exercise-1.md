@@ -1,2 +1,2 @@
-L2: Exercise
+L2: Exercise 1
 
