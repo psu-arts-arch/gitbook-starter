@@ -3,7 +3,7 @@
 * Course Overview and Orientation
   * [Introduction](README.md)
   * Welcome Letter
-  * Syllabus
+  * [Syllabus](syllabus.md)
   * [Instructor Information](instructor-information.md)
 * [Lesson Overview](lesson-overview.md)
 * [Unit 1 \[example\]](unit-1/unit-1.md)
