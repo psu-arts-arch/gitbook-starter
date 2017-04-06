@@ -4,7 +4,7 @@
   * [Introduction](README.md)
   * Welcome Letter
   * Syllabus
-  * Requirements
+  * Instructor Information
 * [Lesson Overview](lesson-overview.md)
 * [Unit 1 \[example\]](unit-1/unit-1.md)
   * [Unit 1 Overview](unit-1/unit-1.md)
