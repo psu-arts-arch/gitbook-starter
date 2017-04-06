@@ -30,8 +30,6 @@
     * [Project: Part 2](project-part-2.md)
   * [Activities](unit-1/lesson-1/activities.md)
     * [Activity 1](activity-1.md)
-* [tips and resource](tips-and-resources.md)s
-  * technical help
-
-
+* [tips and resource](tips-and-resources.md)
+  * [technical help](tips-and-resources/technical-help.md)
 
