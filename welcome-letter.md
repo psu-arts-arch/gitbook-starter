@@ -1,2 +1,2 @@
-Welcome and Orientation Letter
+Welcome & Orientation Letter
 
