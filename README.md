@@ -1,12 +1,6 @@
 Introduction
 
-\[**Unit 1 Title Here\]**
-
-
-
-
+**\[Course title Here\]**
 
 gitbook-starter
-
-
 
