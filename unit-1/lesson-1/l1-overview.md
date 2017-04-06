@@ -1,4 +1,4 @@
-L1 Overview
+L1: Overview
 
 **\[Lesson 1 Title Here\]**
 
