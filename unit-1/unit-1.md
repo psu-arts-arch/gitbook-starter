@@ -1,6 +1,6 @@
 Unit 1 Overview
 
-#### Unit 1 Overview: \[Title Here\]
+\[**Unit 1 Title Here\]**
 
 \[Unit Overview Blurb Here\] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra molestie lectus vel ornare.
 
