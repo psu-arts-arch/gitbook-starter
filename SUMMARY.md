@@ -1,6 +1,6 @@
 # Summary
 
-* Course Overview
+* Course Overview and Orientation
   * [Introduction](README.md)
   * Welcome Letter
   * Syllabus
