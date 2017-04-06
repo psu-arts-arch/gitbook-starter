@@ -17,7 +17,7 @@
     * [L2: Assignment](l2-assignment.md)
     * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
   * [Unit 1 Quiz](unit-1/unit-1-quiz.md)
-  * Unit 1 Project
+  * [Unit 1 Project](unit-1/unit-1-project.md)
 * [Lesson -tester](lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
     * [Example topic](unit-1/lesson-1/topics/example-topic.md)
