@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Unit 1 Overview](unit-1.md)
-* [test](test.md)
+* [L](test.md)esson 1 \[example\]
   * Overview
   * Exercise 1
   * Exercise 2
