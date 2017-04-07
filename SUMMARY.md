@@ -6,6 +6,7 @@
   * [Welcome Letter](course-overview/welcome-letter.md)
   * [Syllabus](course-overview/syllabus.md)
   * [Instructor Information](course-overview/instructor-information.md)
+  * Orientation Quiz
 * [Unit 1 \[example\]](unit-1.md)
   * [Unit 1 Overview](unit-1/unit-1-overview.md)
   * [Lesson 1 \[example\]](unit-1/lesson-1/lesson-1.md)
