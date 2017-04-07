@@ -1,6 +1,4 @@
-Introduction
+# gitbook-starter
 
-**\[Course title Here\]**
 
-gitbook-starter
 
