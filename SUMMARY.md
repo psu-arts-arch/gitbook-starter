@@ -36,7 +36,7 @@
   * [Assignment Help](keys-to-success/assignment-help.md)
 * [Resources](resources/resources.md)
   * [Technical Help](resources/technical-help.md)
-  * Other
+  * Other Lessons
     * Topics
       * Topic 1
     * Activities
