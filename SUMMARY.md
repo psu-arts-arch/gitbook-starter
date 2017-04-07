@@ -1,8 +1,8 @@
 # Summary
 
-* [Course Overview](course-overview-and-orientation.md)
+* [Course Orientation](course-overview-and-orientation.md)
   * [Introduction](README.md)
-  * [Welcome & Orientation Letter](welcome-letter.md)
+  * [Welcome Letter](welcome-letter.md)
   * [Syllabus](syllabus.md)
   * [Instructor Information](instructor-information.md)
 * [Unit 1 \[example\]](unit-1/unit-1.md)
@@ -21,7 +21,7 @@
     * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
   * [Unit 1 Quiz](unit-1/unit-1-quiz.md)
   * [Unit 1 Project](unit-1/unit-1-project.md)
-* [tips and resource](tips-and-resources.md)
+* [tips and resources](tips-and-resources.md)
   * [technical help](tips-and-resources/technical-help.md)
 * [zLesson -tester\_](lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
