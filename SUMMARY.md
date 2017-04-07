@@ -35,7 +35,7 @@
 * [Resources](resources/resources.md)
   * [Technical Help](resources/technical-help.md)
 * [test\_other](unit-900/lesson-1.md)
-  * [Topics](unit-900/lesson-1/topics.md)
+  * [Topics](unit-900/lesson-1/topics/topics.md)
     * [Example topic](unit-900/lesson-1/topics/example-topic.md)
   * [Activities](unit-900/lesson-1/activities/activities.md)
     * [Activity 1](unit-900/lesson-1/activities/activity-1.md)
