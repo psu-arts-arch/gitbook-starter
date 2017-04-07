@@ -5,7 +5,7 @@
   * [Introduction](course-overview/introduction.md)
   * [Welcome Letter](course-overview/welcome-letter.md)
   * [Syllabus](course-overview/syllabus.md)
-  * Course Learning Essentials
+  * [Course Learning Essentials](course-overview/course-learning-essentials.md)
   * [Instructor Information](course-overview/instructor-information.md)
   * Orientation Quiz
 * [Unit 1 \[example\]](unit-1.md)
