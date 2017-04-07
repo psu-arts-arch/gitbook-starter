@@ -30,7 +30,7 @@
   * [Where will I submit my work?](keys-to-success/where-will-i-submit-my-work.md)
   * [Assignment Help](keys-to-success/assignment-help.md)
 * [Resources](resources/resources.md)
-  * [Technical Help](tips-and-resources/technical-help.md)
+  * [Technical Help](resources/technical-help.md)
 * [zLesson -tester\_](lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
     * [Example topic](unit-1/lesson-1/topics/example-topic.md)
