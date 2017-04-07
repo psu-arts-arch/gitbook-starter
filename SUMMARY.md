@@ -23,7 +23,7 @@
   * [Unit 1 Project](unit-1/unit-1-project.md)
 * [help and resources](tips-and-resources.md)
   * [assignment help](assignment-help.md)
-  * [technical hel](tips-and-resources/technical-help.md)p
+  * [technical help](tips-and-resources/technical-help.md)
 * keys to success
 * [zLesson -tester\_](lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
