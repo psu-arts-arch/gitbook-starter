@@ -29,9 +29,13 @@
     * [Project: Part 2](unit-1/unit-1-project/project-part-2.md)
 * [Unit 2](unit-2/unit-2.md)
   * [Unit 2 Overview](unit-2/unit-2-overview.md)
+* Unit 3
+  * Unit 3 Overview
 * [Keys to Success](keys-to-success/keys-to-success.md)
   * [Where will I submit my work?](keys-to-success/where-will-i-submit-my-work.md)
   * [Assignment Help](keys-to-success/assignment-help.md)
 * [Resources](resources/resources.md)
   * [Technical Help](resources/technical-help.md)
+
+
 
