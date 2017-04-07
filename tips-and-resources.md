@@ -1,2 +1,0 @@
-Technical Help and Resources
-
