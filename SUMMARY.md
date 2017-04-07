@@ -7,7 +7,7 @@
   * [Syllabus](course-overview/syllabus.md)
   * [Course Learning Essentials](course-overview/course-learning-essentials.md)
   * [Instructor Information](course-overview/instructor-information.md)
-  * Orientation Quiz
+  * [Orientation Quiz](course-overview/orientation-quiz.md)
 * [Unit 1 \[example\]](unit-1.md)
   * [Unit 1 Overview](unit-1/unit-1-overview.md)
   * [Lesson 1 \[example\]](unit-1/lesson-1/lesson-1.md)
