@@ -24,7 +24,7 @@
 * [help and resources](tips-and-resources.md)
   * [assignment help](assignment-help.md)
   * [technical help](tips-and-resources/technical-help.md)
-* keys to success
+* [keys to success](keys-to-success.md)
 * [zLesson -tester\_](lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
     * [Example topic](unit-1/lesson-1/topics/example-topic.md)
@@ -34,6 +34,4 @@
     * [Project: Part 2](project-part-2.md)
   * [Activities](unit-1/lesson-1/activities.md)
     * [Activity 1](activity-1.md)
-
-
 
