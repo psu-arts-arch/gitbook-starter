@@ -21,7 +21,7 @@
     * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
   * [Unit 1 Quiz](unit-1/unit-1-quiz.md)
   * [Unit 1 Project](unit-1/unit-1-project.md)
-* [keys to success](keys-to-success.md)
+* [keys to success in this course](keys-to-success.md)
 * [technical help and resources](tips-and-resources.md)
   * [assignment help](assignment-help.md)
   * [technical help](tips-and-resources/technical-help.md)
