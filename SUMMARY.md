@@ -21,7 +21,7 @@
     * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
   * [Unit 1 Quiz](unit-1/unit-1-quiz.md)
   * [Unit 1 Project](unit-1/unit-1-project.md)
-* [Unit 2 \[example\]](unit-2.md)
+* [Unit 2](unit-2.md)
   * [Unit 2 Overview](unit-2/unit-2-overview.md)
 * [Keys to Success](keys-to-success/keys-to-success.md)
   * [Where will I submit my work?](keys-to-success/keys-to-success/where-will-i-submit-my-work.md)
