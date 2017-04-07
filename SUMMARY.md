@@ -1,11 +1,11 @@
 # Summary
 
+* [Introduction](README.md)
 * [Course Orientation](course-overview/course-overview-and-orientation.md)
+  * [Introduction](course-overview/introduction.md)
   * [Welcome Letter](welcome-letter.md)
   * [Syllabus](syllabus.md)
   * [Instructor Information](instructor-information.md)
-  * [Introduction](course-overview/introduction.md)
-* [Introduction](README.md)
 * [Unit 1 \[example\]](unit-1.md)
   * [Unit 1 Overview](unit-1/unit-1-overview.md)
   * [Lesson 1 \[example\]](unit-1/lesson-1/lesson-1.md)
