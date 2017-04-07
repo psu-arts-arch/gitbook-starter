@@ -1,2 +1,2 @@
-Course Overview and Orientation
+Course  Orientation
 
