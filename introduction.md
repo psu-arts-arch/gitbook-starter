@@ -1,4 +1,0 @@
-Introduction
-
-**\[Course title Here\]**
-
