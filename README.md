@@ -2,12 +2,13 @@
 
 An example template for DART Studio Courses
 
-* Unit:
-  * Lessons
-    * Quizzes
-    * Tutorial/Exercises
-    * Assignments
-  * Unit Project
+Example Unit Breakdown:
+
+* Lessons
+  * Quizzes
+  * Tutorial/Exercises
+  * Assignments
+* Unit Project
 
 
 
