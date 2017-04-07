@@ -21,7 +21,8 @@
     * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
   * [Unit 1 Quiz](unit-1/unit-1-quiz.md)
   * [Unit 1 Project](unit-1/unit-1-project.md)
-* [technical help and resources](tips-and-resources.md)
+* [Keys to Success](keys-to-success/keys-to-success.md)
+* [Technical Help and Resources](tips-and-resources.md)
   * [technical help](tips-and-resources/technical-help.md)
 * [zLesson -tester\_](lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
@@ -32,5 +33,4 @@
     * [Project: Part 2](project-part-2.md)
   * [Activities](unit-1/lesson-1/activities.md)
     * [Activity 1](activity-1.md)
-* [Keys to Success](keys-to-success/keys-to-success.md)
 
