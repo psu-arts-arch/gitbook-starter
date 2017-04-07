@@ -2,7 +2,7 @@
 
 An example template for DART Studio Courses
 
-* Unit
+* Unit:
   * Lessons
     * Quizzes
     * Tutorial/Exercises
