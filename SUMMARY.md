@@ -24,7 +24,7 @@
     * [L2: Quiz](unit-1/lesson-2/l2-quiz.md)
   * [Unit 1 Quiz](unit-1/unit-1-quiz.md)
   * [Unit 1 Project](unit-1/unit-1-project.md)
-    * Project Introduction
+    * [Project Introduction](unit-1/unit-1-project/project-introduction.md)
     * Project: Part 1
     * Project: Part 2
 * [Unit 2](unit-2/unit-2.md)
