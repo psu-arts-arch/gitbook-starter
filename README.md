@@ -5,9 +5,9 @@ An example template for DART Studio Courses
 * Unit
   * Lessons
     * Quizzes
-    * Exercises
+    * Tutorial/Exercises
     * Assignments
-  * Unit Projects
+  * Unit Project
 
 
 
