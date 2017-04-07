@@ -1,6 +1,6 @@
-Unit 1 Project Introduction
+Project Introduction
 
-**\[Project Title Here\]**
+**\[Unit Project Title Here\]**
 
 #### 
 
