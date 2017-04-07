@@ -24,8 +24,7 @@
 * [Unit 2 \[example\]](unit-2.md)
   * [Unit 2 Overview](unit-2/unit-2-overview.md)
 * [Keys to Success](keys-to-success/keys-to-success.md)
-  * Where will I submit my work?
-
+  * [Where will I submit my work?](keys-to-success/keys-to-success/where-will-i-submit-my-work.md)
 * [Technical Help and Resources](tips-and-resources.md)
   * [technical help](tips-and-resources/technical-help.md)
 * [zLesson -tester\_](lesson-1.md)
@@ -37,6 +36,4 @@
     * [Project: Part 2](project-part-2.md)
   * [Activities](unit-1/lesson-1/activities.md)
     * [Activity 1](activity-1.md)
-
-
 
