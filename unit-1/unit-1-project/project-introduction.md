@@ -1,4 +1,4 @@
-L1: Introduction
+Project Introduction
 
 **\[Project Title Here\]**
 
