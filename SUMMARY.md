@@ -27,7 +27,7 @@
 * [Unit 2](unit-2.md)
   * [Unit 2 Overview](unit-2/unit-2-overview.md)
 * [Keys to Success](keys-to-success/keys-to-success.md)
-  * [Where will I submit my work?](keys-to-success/keys-to-success/where-will-i-submit-my-work.md)
+  * [Where will I submit my work?](keys-to-success/where-will-i-submit-my-work.md)
   * [Assignment Help](keys-to-success/assignment-help.md)
 * [Resources](tips-and-resources.md)
   * [technical help](tips-and-resources/technical-help.md)
