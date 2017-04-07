@@ -34,7 +34,7 @@
   * [Assignment Help](keys-to-success/assignment-help.md)
 * [Resources](resources/resources.md)
   * [Technical Help](resources/technical-help.md)
-* [test\_other](unit-900/lesson-1.md)
+* [test\_other](unit-900/lesson-1/lesson-1)
   * [Topics](unit-900/lesson-1/topics/topics.md)
     * [Example topic](unit-900/lesson-1/topics/example-topic.md)
   * [Activities](unit-900/lesson-1/activities/activities.md)
