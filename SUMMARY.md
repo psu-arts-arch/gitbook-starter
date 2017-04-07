@@ -29,7 +29,7 @@
 * [Keys to Success](keys-to-success/keys-to-success.md)
   * [Where will I submit my work?](keys-to-success/where-will-i-submit-my-work.md)
   * [Assignment Help](keys-to-success/assignment-help.md)
-* [Resources](tips-and-resources.md)
+* [Resources](resources/resources.md)
   * [technical help](tips-and-resources/technical-help.md)
 * [zLesson -tester\_](lesson-1.md)
   * [Topics](unit-1/lesson-1/topics.md)
