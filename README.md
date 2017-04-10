@@ -6,7 +6,8 @@ Example Unit Breakdown:
 
 * Lessons
   * Quizzes
-  * Tutorial/Exercises
+  * Tutorial/Topics
+  * Exercises
   * Assignments
 * Unit Project
 
