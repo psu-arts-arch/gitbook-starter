@@ -1,6 +1,6 @@
 # gitbook-starter
 
-An example template for DART Studio Courses
+An example template for DART 200 Studio Courses
 
 Example Unit Breakdown:
 
@@ -8,7 +8,8 @@ Example Unit Breakdown:
   * Quizzes
   * Tutorial/Exercises
   * Assignments
-* Unit Project
+  * Topics
+* Unit Project 
 
 
 
