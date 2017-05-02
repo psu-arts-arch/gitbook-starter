@@ -9,6 +9,7 @@ An example template for DART 200 Studio Courses
 **Lessons** may include: Lesson Topics, Lesson Exercises, Lesson Assignments, Lesson Activities, Lesson Quizes
 
 * Unit \[\#\]
+
   * Lesson \[\#\]
     * Topics
     * Exercises \(tutorials\)
@@ -18,12 +19,9 @@ An example template for DART 200 Studio Courses
   * Lesson \[\#\]
     * Topics
     * Exercises \(tutorials\)
-
     * Assignments
-    * Activities \(chats, discussions posts, etc\)
+    * Activities \(chats, discussion posts, etc\)
     * Quizzes
-  * Unit Project
-  * Unit Quiz
 
 
 
