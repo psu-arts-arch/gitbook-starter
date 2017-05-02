@@ -1,4 +1,4 @@
-# gitbook-starter
+# DART 200 Level Studio Course \[gitbook-starter\]
 
 An example template for DART 200 Studio Courses
 
